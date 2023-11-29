@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\bin\Debug\ConAppAss23.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\bin\Debug\ConAppAss23.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\bin\Debug\ConAppAss23.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\obj\Debug\ConAppAss23.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\obj\Debug\ConAppAss23.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\obj\Debug\ConAppAss23.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss23\ConAppAss23\obj\Debug\ConAppAss23.pdb
